@@ -19,3 +19,5 @@
     - :telescope: I study at Kazan Federal University <img src="https://media.giphy.com/media/3o7abkwfIVAeDT6RSU/giphy.gif" width="30"> at the Department of Applied Mathematics.
        <div id="badges">
          - :zap: In my free time, I create and develop applications <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"> that are publicly available to me.
+         <div id="badges">
+         - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ramis.garipov0)
