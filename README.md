@@ -18,4 +18,4 @@
     <div id="badges">
     - :telescope: I study at Kazan Federal University <img src="https://media.giphy.com/media/3o7abkwfIVAeDT6RSU/giphy.gif" width="30"> at the Department of Applied Mathematics.
        <div id="badges">
-         - :zap: In my free time, I create and develop applications <img src="https://media.giphy.com/media/3o7abkwfIVAeDT6RSU/giphy.gif" width="30"> that are publicly available to me.
+         - :zap: In my free time, I create and develop applications <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"> that are publicly available to me.
