@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif" width="100"/>
 <div id="badges">
   <a href="https://vk.com/ramis.garipov0">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"/>
