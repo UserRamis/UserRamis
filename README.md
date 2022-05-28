@@ -16,4 +16,6 @@
     </div>
     I am a backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
     <div id="badges">
-    - :telescope:I study at Kazan Federal University <img src="https://media.giphy.com/media/3o7abkwfIVAeDT6RSU/giphy.gif" width="30"> at the Department of Applied Mathematics.
+    - :telescope: I study at Kazan Federal University <img src="https://media.giphy.com/media/3o7abkwfIVAeDT6RSU/giphy.gif" width="30"> at the Department of Applied Mathematics.
+       <div id="badges">
+         - :zap: In my free time, I create and develop applications that are publicly available to me.
