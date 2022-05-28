@@ -11,7 +11,8 @@
 </h1>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-    ---
+    
+    
     </div>
     :man_technologist: About Me :
     </div>
@@ -22,3 +23,6 @@
          - :zap: In my free time, I create and develop applications <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"> that are publicly available to me.
          <div id="badges">
          - :mailbox:How to reach me: ramis.garipoff2017@yandex.ru
+           
+           
+           :hammer_and_wrench: Languages and Tools :
