@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif" width="100"/>
 <div id="badges">
-  <a href="https://vk.com/ramis.garipov0">
+  <a href="https://vk.com/user2934">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"/>
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=UserRamis&style=flat-square&color=blue" alt=""/>
@@ -31,4 +31,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+ 
   
