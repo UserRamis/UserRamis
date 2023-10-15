@@ -1,10 +1,6 @@
 <div id="header" align="center
 
-
-<iframe src="https://giphy.com/embed/xUA7b521V2Mmsw0kfe" width="480" height="311" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/simongibson2000-xUA7b521V2Mmsw0kfe">via GIPHY</a></p>
-
-  
-  <img src="" width="100"/>
+  <img src="https://media.giphy.com/media/xUA7b521V2Mmsw0kfe/giphy.gif" width="100"/>
 <div id="badges">
   <a href="https://vk.com/user2934">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"/>
